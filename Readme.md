@@ -5,7 +5,6 @@ B-NO  : B00929285
 ***The code was tested on remote.cs.binghamton.edu and it works***
 
 ***To compile and execute the program:***
-Pass-prase for SSl certificate: ***pujita2596***
 
 ***Server program:***
 python3 server.py 9285
