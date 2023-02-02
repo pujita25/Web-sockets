@@ -1,5 +1,7 @@
-Name: Nagalakshmi Prasanna Pujita Bodapati
+Name: Pujita Bodapati
+
 EMAIL : nbodapa1@binghamton.edu
+
 B-NO  : B00929285
 
 ***The code was tested on remote.cs.binghamton.edu and it works***
